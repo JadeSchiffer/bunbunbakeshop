@@ -29,8 +29,8 @@ div#navbar {
     font-size: 20px;
     height: 25px;
     background: #A10248;
-    width: 20%;
-    padding-left: 80%;
+    width: 35%;
+    padding-left: 65%;
     margin: 0%;
     margin-bottom: 10px;
 }
@@ -80,12 +80,13 @@ div p#descriptionPrice {
     margin: 5px;
     margin-top: 15px;
     padding: 0px;
-    width: 60%;
-    margin-right: 20%;
-    margin-left: 20%;
-    float: right;
+    width: 40%;
+    margin-right: 0;
+    margin-left: 22%;
+    float: left;
     font-family: fantasy;
-    font-size: 20px;
+    font-size: 15px;
+    
 }
 
 div p#descriptionIngredients {
@@ -100,4 +101,72 @@ div p#descriptionIngredients {
     float: right;
     font-family: fantasy;
     font-size: 20px;
+}
+
+/*styling for adding products to cart below*/
+
+div#button button {
+    background-color: #8FBC8F; 
+    border: none;
+    color: black;
+    padding: 7px 7px;
+    padding-top: 12px;
+    margin-top: 25px;
+    text-align: center;
+    margin-left: -95px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    font-family: fantasy;
+}
+
+article#makeBox {
+    margin-top: 200px;
+    border: solid #000000 2px;
+    width: 60%;
+    margin-left: 20%;
+    height: 150px;
+}
+
+article p#Box{
+    position: relative;
+    display: inline-block;
+    line-height: 25px;
+    padding: 0px;
+    width: 100%;
+    float: left;
+    font-family: fantasy;
+    font-size: 20px;
+    text-align: center;
+    background: #A10248;
+    color: white;
+    margin: 0;
+}
+
+div#options {
+    width: 30%;
+    font-family:fantasy;
+    height: 60px;
+    margin-left: 39%;
+    box-sizing: border-box;
+}
+
+.radio {
+    width: 50%;
+    float: left;
+    margin: 0;
+}
+
+div.select-box {
+    width: 100px;
+    float: left;
+    margin-left: 22%;
+}
+
+#bun-select1 {
+    font-family: fantasy;
+}
+
+#bun-select2 {
+    font-family: fantasy;
 }

@@ -27,8 +27,8 @@ div#navbar {
     font-size: 20px;
     height: 25px;
     background: #A10248;
-    width: 20%;
-    padding-left: 80%;
+    width: 35%;
+    padding-left: 65%;
     margin: 0%;
     margin-bottom: 10px;
 }
@@ -50,8 +50,8 @@ a {
 /*above this is the css for my nav bar*/
 
 div#mapleapplepecan {
-    width: 20%;
-    height: 200px;
+    width: 40%;
+    height: 400px;
     font-family: fantasy;
     font-size:19px;
     margin-top: 0px;
@@ -61,7 +61,7 @@ div#mapleapplepecan {
 div#mapleapplepecan img {
     width: 90%;
     margin-left: 5%;
-    height: 100px;
+    height: 400px;
     clear: both;
 }
 
@@ -90,7 +90,7 @@ div#bacon {
 div#bacon img {
     width: 90%;
     margin-left: 5%;
-    height: 100px;
+    height: 130px;
     clear: both;
 }
 
@@ -119,7 +119,7 @@ div#walnut {
 div#walnut img {
     width: 90%;
     margin-left: 5%;
-    height: 100px;
+    height: 130px;
     clear: both;
 }
 
@@ -149,7 +149,7 @@ div#originalgf {
 div#originalgf img {
     width: 90%;
     margin-left: 5%;
-    height: 100px;
+    height: 130px;
     clear: both;
 }
 
@@ -178,7 +178,7 @@ div#originalv {
 div#originalv img {
     width: 90%;
     margin-left: 5%;
-    height: 100px;
+    height: 200px;
     clear: both;
 }
 
@@ -194,11 +194,9 @@ div#originalv aside {
 div#originalv aside a {
     color: black;
 }
- 
-/*above is my first row of products*/
 
 div#original {
-    width: 20%;
+    width: 40%;
     height: 200px;
     font-family: fantasy;
     font-size:19px;
@@ -209,7 +207,7 @@ div#original {
 div#original img {
     width: 90%;
     margin-left: 5%;
-    height: 100px;
+    height: 200px;
     clear: both;
 }
 
@@ -227,18 +225,18 @@ div#original aside a {
 }
 
 div#pumpkinspice {
-    width: 20%;
-    height: 200px;
+    width: 33%;
+    height: 230px;
     font-family: fantasy;
     font-size:19px;
-    margin-top: 0px;
+    margin-top: 80px;
     float: left;
 }
 
 div#pumpkinspice img {
     width: 90%;
     margin-left: 5%;
-    height: 100px;
+    height: 230px;
     clear: both;
 }
 
@@ -256,18 +254,18 @@ div#pumpkinspice aside a {
 }
     
 div#caramelpecan {
-    width: 20%;
-    height: 200px;
+    width: 33%;
+    height: 230px;
     font-family: fantasy;
     font-size:19px;
-    margin-top: 0px;
+    margin-top: 80px;
     float: left;
 }
 
 div#caramelpecan img {
     width: 90%;
     margin-left: 5%;
-    height: 100px;
+    height: 230px;
     clear: both;
 }
 
@@ -285,11 +283,11 @@ div#caramelpecan aside a {
 }
 
 div#carrotcake {
-    width: 20%;
-    height: 200px;
+    width: 33%;
+    height: 230px;
     font-family: fantasy;
     font-size:19px;
-    margin-top: 0px;
+    margin-top: 80px;
     float: left;
     display: block;
 }
@@ -297,7 +295,7 @@ div#carrotcake {
 div#carrotcake img {
     width: 90%;
     margin-left: 5%;
-    height: 100px;
+    height: 230px;
     clear: both;
 }
 
@@ -320,14 +318,14 @@ div#oldfashionedbuttermilk {
     height: 200px;
     font-family: fantasy;
     font-size:19px;
-    margin-top: 0px;
+    margin-top: 80px;
     float: left;
 }
 
 div#oldfashionedbuttermilk img {
     width: 90%;
     margin-left: 5%;
-    height: 100px;
+    height: 130px;
     clear: both;
 }
 
@@ -344,21 +342,19 @@ div#oldfashionedbuttermilk aside a {
     color: black;
 }
 
-/*above is my second row of products*/
-
 div#strawberryrhubarb {
     width: 20%;
     height: 200px;
     font-family: fantasy;
     font-size:19px;
-    margin-top: 0px;
+    margin-top: 80px;
     float: left;
 }
 
 div#strawberryrhubarb img {
     width: 90%;
     margin-left: 5%;
-    height: 100px;
+    height: 130px;
     clear: both;
 }
 
@@ -380,14 +376,14 @@ div#birthdaycake {
     height: 200px;
     font-family: fantasy;
     font-size:19px;
-    margin-top: 0px;
+    margin-top: 80px;
     float: left;
 }
 
 div#birthdaycake img {
     width: 90%;
     margin-left: 5%;
-    height: 100px;
+    height: 130px;
     clear: both;
 }
 
@@ -405,18 +401,18 @@ div#birthdaycake aside a {
 }
     
 div#lemonlavender {
-    width: 20%;
-    height: 200px;
+    width: 40%;
+    height: 400px;
     font-family: fantasy;
     font-size:19px;
-    margin-top: 0px;
-    float: left;
+    margin-top: 80px;
+    float: right;
 }
 
 div#lemonlavender img {
     width: 90%;
     margin-left: 5%;
-    height: 100px;
+    height: 400px;
     clear: both;
 }
 
@@ -434,7 +430,7 @@ div#lemonlavender aside a {
 }
 
 div#cranberry {
-    width: 20%;
+    width: 40%;
     height: 200px;
     font-family: fantasy;
     font-size:19px;
@@ -446,7 +442,7 @@ div#cranberry {
 div#cranberry img {
     width: 90%;
     margin-left: 5%;
-    height: 100px;
+    height: 200px;
     clear: both;
 }
 
@@ -461,8 +457,7 @@ div#cranberry aside {
 
 div#cranberry aside a {
     color: black;
-}
- 
+} 
 
 div#blackberry {
     width: 20%;
@@ -476,7 +471,7 @@ div#blackberry {
 div#blackberry img {
     width: 90%;
     margin-left: 5%;
-    height: 100px;
+    height: 200px;
     clear: both;
 }
 
